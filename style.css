@@ -289,6 +289,7 @@ header {
   background-image: url(https://images.pexels.com/photos/2123337/pexels-photo-2123337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
   background-position: 50% 50%;
   justify-content: space-between;
+  height: 39.8rem;
 }
 
 .hero-image-mobile {
@@ -299,10 +300,12 @@ header {
   max-width: 28.125rem;
   mix-blend-mode: difference;
   color: var(--white);
+  padding-top: 5rem;
 }
 
 .hero-paragraph {
   max-width: 18.75rem;
+  padding-top: 5rem;
 }
 
 
